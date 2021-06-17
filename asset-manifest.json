@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/NasNav-last-version/static/css/main.94953512.chunk.css",
+    "main.js": "/NasNav-last-version/static/js/main.d732892c.chunk.js",
+    "main.js.map": "/NasNav-last-version/static/js/main.d732892c.chunk.js.map",
+    "runtime-main.js": "/NasNav-last-version/static/js/runtime-main.626cd475.js",
+    "runtime-main.js.map": "/NasNav-last-version/static/js/runtime-main.626cd475.js.map",
+    "static/js/2.f6ce25b5.chunk.js": "/NasNav-last-version/static/js/2.f6ce25b5.chunk.js",
+    "static/js/2.f6ce25b5.chunk.js.map": "/NasNav-last-version/static/js/2.f6ce25b5.chunk.js.map",
+    "static/css/3.6b560088.chunk.css": "/NasNav-last-version/static/css/3.6b560088.chunk.css",
+    "static/js/3.f782cb9d.chunk.js": "/NasNav-last-version/static/js/3.f782cb9d.chunk.js",
+    "static/js/3.f782cb9d.chunk.js.map": "/NasNav-last-version/static/js/3.f782cb9d.chunk.js.map",
+    "static/js/4.17c7e9d6.chunk.js": "/NasNav-last-version/static/js/4.17c7e9d6.chunk.js",
+    "static/js/4.17c7e9d6.chunk.js.map": "/NasNav-last-version/static/js/4.17c7e9d6.chunk.js.map",
+    "static/js/5.69a2ad2f.chunk.js": "/NasNav-last-version/static/js/5.69a2ad2f.chunk.js",
+    "static/js/5.69a2ad2f.chunk.js.map": "/NasNav-last-version/static/js/5.69a2ad2f.chunk.js.map",
+    "index.html": "/NasNav-last-version/index.html",
+    "static/css/3.6b560088.chunk.css.map": "/NasNav-last-version/static/css/3.6b560088.chunk.css.map",
+    "static/css/main.94953512.chunk.css.map": "/NasNav-last-version/static/css/main.94953512.chunk.css.map",
+    "static/js/2.f6ce25b5.chunk.js.LICENSE.txt": "/NasNav-last-version/static/js/2.f6ce25b5.chunk.js.LICENSE.txt",
+    "static/js/3.f782cb9d.chunk.js.LICENSE.txt": "/NasNav-last-version/static/js/3.f782cb9d.chunk.js.LICENSE.txt",
+    "static/media/adidas.svg": "/NasNav-last-version/static/media/adidas.92a712a5.svg",
+    "static/media/loading.41d05226.gif": "/NasNav-last-version/static/media/loading.41d05226.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.626cd475.js",
+    "static/js/2.f6ce25b5.chunk.js",
+    "static/css/main.94953512.chunk.css",
+    "static/js/main.d732892c.chunk.js"
+  ]
+}
